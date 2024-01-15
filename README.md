@@ -13,5 +13,5 @@ To get started with the Llama2 Medical Bot, you need to:
 
 4. Start the bot by running the provided Python script or integrating it into your application.
 
-##License
+## License
 This project is licensed under the MIT License.
